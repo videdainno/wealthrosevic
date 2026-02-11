@@ -42,7 +42,7 @@ export default function Footer() {
                         <ul className="space-y-2 text-sm opacity-80">
                             <li>123 Wealthrose Lane, Business City</li>
                             <li>info@wealthrose.com</li>
-                            <li>+123 456 7890</li>
+                            <li>+234 805 330 6373</li>
                         </ul>
                         <div className="flex gap-4 mt-6">
                             <Link href="#" className="hover:text-accent"><Facebook size={20} /></Link>
